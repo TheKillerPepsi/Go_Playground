@@ -15,7 +15,6 @@
 # vendor/
 
 #ignore compiled go
-**/*.go
 
 #ignore macos
 .DS_Store?
